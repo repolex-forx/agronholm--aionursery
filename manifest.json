@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "aionursery",
+  "versions": [
+    {
+      "commit": "c8f5636c65d5a5f83b98533ff780423857fe28a0",
+      "parsed_at": "2026-10-11T19:18:31.939954+00:00",
+      "filetree": "filetree/c8f5636c65d5a5f83b98533ff780423857fe28a0.nq.gz",
+      "blobs": [
+        "blob/1b618aae653e6f702f95c50ba07921ee00ddfc86.nq.gz",
+        "blob/95b48accaf6ab7cca1bf1eb6f729f62708e4d0ee.nq.gz",
+        "blob/07806f8af9dd3253ebdb5710b67e73124aea4941.nq.gz",
+        "blob/8bfc343958177339e74d0bc52353322ed3b1f696.nq.gz",
+        "blob/7d9cef394927bed5e1f3f1dc02850ce36aadff38.nq.gz",
+        "blob/b86efb6d45ea70a21e24d66092f236be839696cb.nq.gz",
+        "blob/779232f9fd593719fad2924decd2381c82850e20.nq.gz",
+        "blob/bb08fb459cef71c6e9b79913420a0e5a2181d6f6.nq.gz",
+        "blob/e04af1aa6d4f97d2687c047918b1a533a2aa8027.nq.gz",
+        "blob/1b3723ba739093384186bdea50137d3e3d2fb934.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
