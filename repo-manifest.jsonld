@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/aionursery/commit/c8f5636c65d5a5f83b98533ff780423857fe28a0",
       "git:hexsha": "c8f5636c65d5a5f83b98533ff780423857fe28a0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
